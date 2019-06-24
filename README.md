@@ -1,5 +1,7 @@
 # PLA4_Full1
+
 Exercicis PLA4 del full 1
+
 En aquest projecte trobareu 8 exercicis en JavaScript i un HTML. Cada exercici té el seu body dintre del HTML
 Per executar cada exercici és necessari treure els comentaris de cada body que correspongui a l'exercici que es vulgui mirar
 
@@ -19,5 +21,14 @@ Per executar cada exercici és necessari treure els comentaris de cada body que 
  d'una cadena i en acabar en mostri cada una de les posicions trobades
  
  En el setè exercici, donada una cadena amb numeros de 0 a 9 es comptarà el numero de vegades que cada numero apareix i es 
- guardarà el resultat en una llista. La llista tindrà deu elements, 
- on el primer element serà el número de zeros trobats en la cadena, el segon, contindrà el numero de "1"s i així successivament
+ guardarà el resultat en una llista. La llista tindrà deu elements, on el primer element serà el número de zeros trobats en
+ la cadena, el segon, contindrà el numero de "1"s i així successivament.
+ 
+ En el vuitè i últim exercici,fent servir l'exercici 6 com a referencia, si el programa detecta algún caràcter numèric 
+ enlloc de caracter alfanumèric, en la cadena donarà un missatge d'error indicant quin és el caràcter que s'ha trobat 
+ i en quina posició.
+ 
+ Per fer gairebé tots els exercicis s'ha hagut d'utiltizar el bucle "for" ja que per recórrer cadenes és el necessari,
+ i el més eficient.
+ 
+ En aquests 8 primers exercicis no s'hi ha tingut cap problema a la hora de realitzar els exercicis.
